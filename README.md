@@ -11,7 +11,7 @@
 ## 💡 About Me  
 
 - 🏢 **Web Developer** at [RedVision Technologies](https://www.redvisiontechnologies.com/) (Aug 2025 – Present)  
-- 💼 Past: **Nexachain Core Pvt Ltd** (Nov 2024 – Present) | **Bootsup Digital** (Nov 2022 – Nov 2024)  
+- 💼 Past: **Nexachain Core Pvt Ltd** (Nov 2024 – july 2025) | **Bootsup Digital** (Nov 2022 – Nov 2024)  
 - 💻 Learning: **Next.js, TypeScript, System Design**  
 - 🤝 Open to: **Open Source Projects** & **Real-World SaaS Tools**  
 - ⚡ Tech interests: **JavaScript, React, Node.js, MongoDB, Frontend Architecture**  
